@@ -36,7 +36,7 @@ builder.Services.AddSwaggerGen(config => {
         Description = "Digunakan untuk membuat game rmt",
         Contact = new OpenApiContact {
             Name = "Contact",
-            Url = new Uri("https://wa.me/6289638070331"),
+            Url = new Uri("https://wa.me/0"),
         },
     });
 
